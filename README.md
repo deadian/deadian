@@ -1,2 +1,7 @@
 # deadian
-init repo
+
+USER/admin repo
+
++ branding
++ ...
+
