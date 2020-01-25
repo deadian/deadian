@@ -86,3 +86,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+
+# MY ADDS
+.#
+.tmp
+.pyc
+env/
+
+
